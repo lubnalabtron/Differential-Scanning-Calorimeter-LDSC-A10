@@ -1,0 +1,2 @@
+# Differential-Scanning-Calorimeter-LDSC-A10
+Differential Scanning Calorimeter LDSC-A10 is an analyzer that allows the measurement of different characteristic properties of various samples from RT to 800°C. It meets ASTM, ISO standards. High resolution, stable baseline, airflow meter, bilateral control etc. are some of the features which ensure accurate and reliable results. It finds applications in fields like polymer development, quality control of different materials, performanDifferential Scanning Calorimeter LDSC-A10ce testing and many other industries.
